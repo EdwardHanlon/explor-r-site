@@ -1,0 +1,25 @@
+.layoutContainer {
+  box-sizing: border-box;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+	padding: 0 0.5rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+  }
+  
+  .main {
+	padding: 1rem 0;
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	font-size: 1.25rem;
+	
+  }
+  
